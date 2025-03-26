@@ -21,8 +21,8 @@
     </div>
     <divc class="right_nav">
         <ul>
-            <li class="list1">Log In</li>
-            <li class="list2"><a href="signup.html"></a>Sign Up</li>
+            <li class="list1"> <a href="login.html">Log In</a></li>
+            <li class="list2"><a href="signup.html">Sign Up</a></li>
         </ul>
     </div>
 </nav>
