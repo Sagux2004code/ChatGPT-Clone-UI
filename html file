@@ -1,0 +1,85 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT Clone UI</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100..1000&family=Delicious+Handrawn&family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav>
+    <div class="left_nav">
+        <ul>
+            <li><i class="fa-solid fa-pen-to-square"></i>
+                <li>ChatGPT <i class="fa-solid fa-chevron-down"></i></li>
+
+            </li>
+        </ul>
+    </div>
+    <divc class="right_nav">
+        <ul>
+            <li class="list1">Log In</li>
+            <li class="list2"><a href="signup.html"></a>Sign Up</li>
+        </ul>
+    </div>
+</nav>
+<div class="container">
+    <div class="text_div">
+        <h1>What Can I help you ?</h1>
+    </div>
+    <div class="input_div">
+        <input type="text" placeholder="Ask here anything">
+        <div class="botton_input_div">
+            <div class="botton_left">
+                <div class="text_icn">
+                    <i class="fa-solid fa-plus"></i>
+                    <span>Attach</span>
+                </div>
+                <div class="text_icn">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <span>Search</span>
+                </div>
+                <div class="text_icn">
+                    <i class="fa-regular fa-lightbulb"></i>
+                    <span>Reason</span>
+                </div>
+
+
+            </div>
+            <div class="botton_right">
+                <img height="24px" src="Sound_Wave_Icon-removebg-preview.png" alt="">
+                <span>Voice</span>
+            </div>
+        
+        
+        </div>
+
+    </div>
+    <div class="icn_div">
+        <div class="text_icn">
+            <i class="fa-solid fa-graduation-cap"></i>
+            <span>Get advice</span>
+        </div>
+        <div class="text_icn">
+            <i class="fa-solid fa-brain"></i>
+            <span>Brainstorm</span>
+        </div>
+        <div class="text_icn">
+            <i class="fa-solid fa-file-invoice"></i>
+            <span>Summarize text</span>
+        </div>
+        <div class="text_icn">
+            <i class="fa-solid fa-eye"></i>
+            <span>Analyze </span>
+    </div>
+   
+       
+    </div>
+
+    </div>
+</div>
+</body>
+</html>
