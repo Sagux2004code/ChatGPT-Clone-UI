@@ -82,3 +82,28 @@
 </div>
 </body>
 </html>
+
+
+
+
+------------- Sign Up page-----------------------
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign up page</title>
+    <link rel="stylesheet" href="signup.css">
+</head>
+<body>
+    <nav>ChatGPT</nav>
+    <div class="container">
+        <h1>Hey! Welcome Back</h1>
+        <input type="email" placeholder="Type your email">
+        <input type="password" placeholder="Enter your password">
+        <button>Continue</button>
+        <p>Already have an account? <a href="signup.html"></a></p>
+    </div>
+</body>
+</html>
