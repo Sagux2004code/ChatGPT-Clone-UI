@@ -21,14 +21,14 @@
     </div>
     <divc class="right_nav">
         <ul>
-            <li class="list1"> <a href="login.html">Log In</a></li>
+            <li class="list1"><a href="login.html">Log In</a></li>
             <li class="list2"><a href="signup.html">Sign Up</a></li>
         </ul>
     </div>
 </nav>
 <div class="container">
     <div class="text_div">
-        <h1>What Can I help you ?</h1>
+        <h1>What can I help you ?</h1>
     </div>
     <div class="input_div">
         <input type="text" placeholder="Ask here anything">
@@ -50,8 +50,7 @@
 
             </div>
             <div class="botton_right">
-                <img height="24px" src="Sound_Wave_Icon-removebg-preview.png" alt="">
-                <span>Voice</span>
+                <i class="fa-solid fa-arrow-up"></i>
             </div>
         
         
